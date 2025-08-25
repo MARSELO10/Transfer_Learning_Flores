@@ -1,4 +1,4 @@
-...............![flores](https://github.com/user-attachments/assets/01e86e8e-2f6b-4a64-853e-d2123ec83f7a)...............
+![flores](https://github.com/user-attachments/assets/01e86e8e-2f6b-4a64-853e-d2123ec83f7a)
 
 ---
 
