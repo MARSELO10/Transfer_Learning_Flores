@@ -15,7 +15,7 @@ Este projeto é uma tarefa dada aos estudantes do BairesDev - Machine Learning T
 
 ---
 
-## 🎯 - Sobre o Projeto de Redução de Dimensionalidade
+## 🎯 - Sobre o Projeto de Transfer Learning
 Este projeto implementa um classificador de imagens usando Transfer Learning para distinguir entre 5 tipos de flores.
 
 Cinco categorias de imagens de flores estão sendo treinadas por uma CNN, com base no ResNet e por meio de aprendizagem por transferência, para fornecer um classificador de categorias de flores. As flores podem estar nas seguintes categorias: margarida, dente-de-leão, rosas, girassóis ou tulipas.
