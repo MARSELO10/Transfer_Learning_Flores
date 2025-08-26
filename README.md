@@ -82,7 +82,6 @@ Cinco categorias de imagens de flores estão sendo treinadas por uma CNN, com ba
 ```
 
 projeto
-oxford-flowers102.py
 ├── FlowersDataset (class)        # Classe customizada para carregar imagens e rótulos
 │   ├── __init__()                # Inicializa diretório, índices, labels e transformações
 │   ├── __len__()                 # Retorna tamanho do dataset
